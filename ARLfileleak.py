@@ -6,9 +6,9 @@ from requests.packages.urllib3.exceptions import InsecureRequestWarning
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
-arl_url = "https://175.178.48.156:5003/"  # ARL地址
+arl_url = "https://xxx.xx.xx.xx:5003/"  # ARL地址
 username = "admin"  # 用户名
-password = "c3ef-enk"  # 密码
+password = "xxxxx"  # 密码
 
 
 def generate():
