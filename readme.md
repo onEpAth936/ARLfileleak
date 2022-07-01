@@ -1,6 +1,6 @@
 ## ARLfileleak
 
-Usage：
+#### Usage：
 
 更改地址、用户、密码
 
@@ -28,3 +28,11 @@ python ARLfileleak.py
 效果：点击连接可直接跳转
 
 ![image-20220626181150705](./doc/image-20220626181150705.png)
+
+
+
+
+
+#### 更新日志：
+
+- 2022.7.1	使用sqlite3优化生成html文件逻辑（主要是实现url去重功能）
